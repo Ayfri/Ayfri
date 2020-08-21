@@ -3,4 +3,9 @@
 I'm a little young french developer, knowing JavaScript, TypeScript and Java (and briefly other languages).
 I do mainly discord bots, games but also utils softwares and some utils libraries.
 
-I have a lot of project not finished (like everybody) but I have a lot of active projects that I've not published here yet, be patient :)
+I have a lot of projects not finished (like everybody) but I have a lot of active projects that I've not published here yet, be patient :)
+
+#### Statistics on me :
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayfri)](https://github.com/anuraghazra/github-readme-stats)
+
