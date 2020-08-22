@@ -7,7 +7,7 @@ I have a lot of projects not finished (like everybody) but I have a lot of activ
 
 #### Statistics on me :
 
-[![Ayfri's github stats](https://github-readme-stats.vercel.app/api?username=Ayfri)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayfri's github stats](https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfri)](https://github.com/anuraghazra/github-readme-stats)
 
