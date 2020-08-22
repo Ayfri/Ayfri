@@ -27,7 +27,7 @@ I have a lot of projects not finished (like everybody) but I have a lot of activ
 
 ### Statistics on me :
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayfri)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayfri&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/Ayfri?label=My%20followers)
 ![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/12184583?label=My%20reputation%20on%20StackOverflow)
 
