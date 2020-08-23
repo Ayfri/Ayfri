@@ -27,11 +27,10 @@ I have a lot of projects not finished (like everybody) but I have a lot of activ
 
 ### Statistics on me :
 
+[![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=12184583&layout=compact)](https://stackoverflow.com/users/12184583/Ayfri)
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayfri&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/Ayfri?label=My%20followers)
-
-#### StackOverflow Profile :
-[![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=12184583&layout=compact)](https://stackoverflow.com/users/12184583/Ayfri)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfri&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 [![Ayfri's github stats](https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
