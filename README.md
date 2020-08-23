@@ -34,3 +34,5 @@ I have a lot of projects not finished (like everybody) but I have a lot of activ
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfri&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 [![Ayfri's github stats](https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
