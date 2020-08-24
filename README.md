@@ -1,9 +1,10 @@
 ## Hi there, I'm Ayfri.
 ### What do I do ?
-I'm a little young french developer, coding in JavaScript, TypeScript and Java (and briefly other languages).
-I code mainly discord bots, games but also utils softwares and some utils libraries.
+I'm a young french developer, coding in JavaScript, TypeScript and Java (and briefly other languages).
+I code mainly discord bots, games, utils softwares and some utils libraries.
 
-I have a lot of projects that arn't finished (like everybody) but I have a lot of active projects that I've not publish yet, be patient :)
+I have a lot of projects that aren't finished (like everybody).
+I have multiple active projects that I've not publish yet, be patient :)
 
 ### Technologies I use :
 
