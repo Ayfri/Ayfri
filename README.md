@@ -37,4 +37,25 @@ I have multiple active projects that I've not publish yet, be patient :)
 [![Ayfri's github stats](https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            ███████████████░░░░░░░░░░   63.16% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+PHP                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+C#                       1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Ayfri/Ayfri/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
