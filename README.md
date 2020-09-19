@@ -8,15 +8,16 @@ I have multiple active projects that I've not publish yet, be patient :)
 
 ### Technologies I use :
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=E98A33)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
 ![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)
+![WebPack](https://img.shields.io/badge/-Webpack-000000?style=flat-square&logo=webpack)
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
 
 ### IDEs I use :
 
