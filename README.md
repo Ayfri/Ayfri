@@ -33,7 +33,9 @@ I have multiple active projects that I've not publish yet, be patient :)
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayfri&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/Ayfri?label=Followers)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfri&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-[![Ayfri's github stats](https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
-[![Ayfri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayfri)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfri&card_width=400&langs_count=10&hide_border=true&theme=nord" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayfri&theme=nord&hide_border=true" />
+</a>
