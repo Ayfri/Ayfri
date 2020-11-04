@@ -8,6 +8,7 @@ I have multiple active projects that I've not publish yet, be patient :)
 
 ### Technologies I use :
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=E98A33)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
