@@ -20,7 +20,7 @@ I have multiple active projects that I've not publish yet, be patient :)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
 
-### IDEs I use :
+### Tools I use to code :
 
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20Idea-black?style=flat-square&logo=intellij-idea)
