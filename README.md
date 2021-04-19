@@ -1,10 +1,17 @@
-## Hi there, I'm Ayfri.
+# Hi there, I'm Ayfri 👋
 ### What do I do ?
 I'm a young french developer, coding in JavaScript, TypeScript and Java (and briefly other languages).
 I code mainly discord bots, games, utils softwares and some utils libraries.
 
 I have a lot of projects that aren't finished (like everybody).
 I have multiple active projects that I've not publish yet, be patient :)
+
+### Links
+- Discord : Ayfri#0453
+- Discord Guild : [CommunAyfri](https://discord.gg/BySjRNQ9Je)
+- Twitter : [Ayfri1015](https://twitter.com/Ayfri1015)
+- Twitch : [Ayfri1015](https://www.twitch.tv/ayfri1015)
+- Youtube : [Ayfri](https://www.youtube.com/c/Ayfri)
 
 ### Technologies I use :
 
