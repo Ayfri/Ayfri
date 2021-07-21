@@ -1,9 +1,9 @@
 # Hi there, I'm Ayfri 👋
 ### What do I do ?
-I'm a french student, coding mainly in TypeScript, Kotlin, Java, JavaScript and briefly other languages.
+I'm a french student, coding mainly in TypeScript, Kotlin, Java, JavaScript and briefly other languages.<br>
 I do mainly games, discord bots, useful librairies and other, I also love experimenting with new technologies and new types of projects.
 
-I have a lot of projects that aren't finished (like everybody).
+I have a lot of projects that aren't finished (like everybody).<br>
 I have multiple active projects that I've not publish yet, be patient :)
 
 ### Links
@@ -15,8 +15,8 @@ I have multiple active projects that I've not publish yet, be patient :)
 
 ### Technologies I use :
 
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-![Gradle](https://img.shields.io/badge/Gradle-black?style=flat-square&logo=gradle)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin&logoColor=9469c0)
+![Gradle](https://img.shields.io/badge/Gradle-black?style=flat-square&logo=gradle&logoColor=1d5151)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=E98A33)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=node.js)
