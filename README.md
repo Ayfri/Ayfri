@@ -33,7 +33,8 @@ I have multiple active projects that I've not publish yet, be patient :)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-black?style=flat-square&logo=intellij-idea)
 ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=rider)
 ![CLion](https://img.shields.io/badge/CLion-black?style=flat-square&logo=clion)
-![DataGrip](https://img.shields.io/badge/DataGrip-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAAAAAA7VNdtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AgXAhU514ttoQAAAAJiS0dEAP+Hj8y/AAACGElEQVRIx2P4TzJgGFlaXj9+/BJDy/PyJAhIL5u6/zWK+jM9YSbq6oaexeteoWi5I8cAA8z8Dn1P4BouFckxQSW4PZfg0AIETF5boZKb7BiRxHmr0LUwggBEUmMpWG6DLsQIFhawVYyF6FosioqKcvyVwKq09wBFL9qCmKwerUsWNPnxMDCGPkbXUgdi/bxSLQpSGPb9//98kJ0KE3+B1a1wdTj+H6uW////zhQCcjiX/z8pDaQF58JC4s6l/7i0/P9bDDSdMeF/G8iSLFxRiaLl/1FxIE/ndiCQFNhBnJZ3lkCe6A4DIKn3HCRwwNMZAspxafnpC4qEpaCwcwALrGOHxowjLi0/vIE8/pWqQNKWSC0vjIA8mcOmQFLtIUhgo7iAgAArPi0b+YE8m+eRQJJrJUjg1+HDh/f749HyJgKUOKr/TwClkog/MINScWt5VswM5Cie+H8J5Bm2FpiWZCxaSt+9e/fmxlwfUAwy1wNF60DWcBWcAxs0XweLFkljY2N9OUjgxIPi44EfOP0qhhQVRRtxYAsxBGBJugNJBm4QPixTCLTg0MKk2/UR6v5zSZwIcWa7BcgJRpMbAniElH37riOlpyUhEmwge9jEPCc/QilhDu4Fg30HT99HT4Tnl3dUVnWuODtiC9hRLQOl5eZGdLDpKQEtLRzogHMRAS0NjAxogImQltlm6MB8EyHvv8UAo7GPCwAAWUGe94nDOyMAAAAASUVORK5CYII=)
+![GoLang](https://img.shields.io/badge/GoLand-black?style=flat-square&logo=goland)
+![DataGrip](https://img.shields.io/badge/DataGrip-black?style=flat-square&logo=datagrip)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-black?style=flat-square&logo=sublime-text)
 
 ### Statistics on me
