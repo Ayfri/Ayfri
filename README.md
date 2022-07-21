@@ -15,6 +15,9 @@ I have multiple active projects that I've not publish yet, be patient :)
 - Twitch : [Ayfri1015](https://www.twitch.tv/ayfri1015)
 - Youtube : [Ayfri](https://www.youtube.com/c/Ayfri)
 
+#### Buy me a coffee :)<br>
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DAyfri%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/Ayfri)
+
 ### Technologies I use
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin&logoColor=9469c0)
