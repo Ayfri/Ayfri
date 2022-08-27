@@ -11,8 +11,8 @@ I have multiple active projects that I've not publish yet, be patient :)
 
 - Discord : Ayfri#0453
 - Discord Guild : [CommunAyfri](https://discord.gg/BySjRNQ9Je)
-- Twitter : [Ayfri1015](https://twitter.com/Ayfri1015)
-- Twitch : [Ayfri1015](https://www.twitch.tv/ayfri1015)
+- Twitter : [Ayfri_](https://twitter.com/Ayfri_)
+- Twitch : [Ayfri_](https://www.twitch.tv/ayfri_)
 - Youtube : [Ayfri](https://www.youtube.com/c/Ayfri)
 
 #### Buy me a coffee :)<br>
