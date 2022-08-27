@@ -42,11 +42,11 @@ I have multiple active projects that I've not publish yet, be patient :)
 
 ### Statistics on me
 
-[![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=12184583&layout=compact)](https://stackoverflow.com/users/12184583/Ayfri)
-<br>
+[![profile for Ayfri at Stack Overflow, Q&A for professional and enthusiast programmers](https://stackoverflow.com/users/flair/12184583.png "profile for Ayfri at Stack Overflow, Q&A for professional and enthusiast programmers")](https://stackoverflow.com/users/12184583/ayfri)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayfri&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/Ayfri?label=Followers)
-<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfri&card_width=400&langs_count=10&hide_border=true&theme=nord" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
