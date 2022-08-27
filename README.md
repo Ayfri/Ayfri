@@ -2,7 +2,7 @@
 ### What do I do ?
 I'm a french student, coding mainly in TypeScript, Kotlin, Java, JavaScript, Go and briefly other languages.<br>
 I do mainly games, discord bots, minecraft mods, useful librairies and other, I also love experimenting with new technologies and new types of projects.<br>
-> _Note : Part of my work is now done on live on [twitch](https://www.twitch.tv/ayfri1015)._<br>
+> _Note : Part of my work is now done on live on [twitch](https://www.twitch.tv/ayfri_)._<br>
 <br>
 I have a lot of projects that aren't finished (like everybody).<br>
 I have multiple active projects that I've not publish yet, be patient :)
