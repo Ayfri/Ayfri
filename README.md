@@ -1,14 +1,14 @@
 # Hi there, I'm Ayfri 👋
 ### What do I do ?
-I'm a french student, coding mainly in TypeScript, Kotlin, Java, JavaScript, Go and briefly other languages.<br>
+I'm a french student, coding mainly in Kotlin, PHP, TypeScript, Java, JavaScript, Go and briefly other languages.<br>
 I do mainly games, discord bots, minecraft mods, useful librairies and other, I also love experimenting with new technologies and new types of projects.<br>
-> _Note : Part of my work is now done on live on [twitch](https://www.twitch.tv/ayfri_)._<br>
+> _Note : Part of my work is done on live on [twitch](https://www.twitch.tv/ayfri_)._<br>
 <br>
-I have a lot of projects that aren't finished (like everybody).<br>
-I have multiple active projects that I've not publish yet, be patient :)
+I have a lot of projects that aren't finished (like everybody).
 
 ### Links
 
+- My Online Portfolio : [ayfri.me](https://ayfri.me)
 - Discord : Ayfri#0453
 - Discord Guild : [CommunAyfri](https://discord.gg/BySjRNQ9Je)
 - Twitter : [Ayfri_](https://twitter.com/Ayfri_)
@@ -29,15 +29,16 @@ I have multiple active projects that I've not publish yet, be patient :)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![Godot](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot-engine)
 
 ### Tools I use to code
 
-![WebStorm](https://img.shields.io/badge/WebStorm-black?style=flat-square&logo=webstorm)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-black?style=flat-square&logo=intellij-idea)
+![GoLand](https://img.shields.io/badge/GoLand-black?style=flat-square&logo=goland)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-black?style=flat-square&logo=phpstorm)
+![WebStorm](https://img.shields.io/badge/WebStorm-black?style=flat-square&logo=webstorm)
 ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=rider)
 ![CLion](https://img.shields.io/badge/CLion-black?style=flat-square&logo=clion)
-![GoLang](https://img.shields.io/badge/GoLand-black?style=flat-square&logo=goland)
-![DataGrip](https://img.shields.io/badge/DataGrip-black?style=flat-square&logo=datagrip)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-black?style=flat-square&logo=sublime-text)
 
 ### Statistics on me
