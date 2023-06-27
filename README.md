@@ -8,7 +8,7 @@ I have a lot of projects that aren't finished (like everybody).
 
 ### Links
 
-- My Online Portfolio : [ayfri.me](https://ayfri.me)
+- My Online Portfolio : [ayfri.me](https://ayfri.com)
 - Discord : Ayfri#0453
 - Discord Guild : [CommunAyfri](https://discord.gg/BySjRNQ9Je)
 - Twitter : [Ayfri_](https://twitter.com/Ayfri_)
@@ -40,7 +40,7 @@ I have a lot of projects that aren't finished (like everybody).
 ![WebStorm](https://img.shields.io/badge/WebStorm-black?style=flat-square&logo=webstorm)
 ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=rider)
 ![CLion](https://img.shields.io/badge/CLion-black?style=flat-square&logo=clion)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-black?style=flat-square&logo=sublime-text)
+![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat-square&logo=pycharm)
 
 ### Statistics on me
 
