@@ -53,3 +53,7 @@ I have a lot of projects that aren't finished (like everybody).
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayfri&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayfri&theme=nord&hide_border=true" />
 </a>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100% 100%; width: 100vw; opacity: 0.5; background: url('https://cdn3.emoji.gg/emojis/6290-harold.png');]{x0000}$}
