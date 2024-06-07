@@ -54,6 +54,5 @@ I have a lot of projects that aren't finished (like everybody).
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayfri&theme=nord&hide_border=true" />
 </a>
 
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100% 100%; width: 100vw; opacity: 0.5; background: url('https://cdn3.emoji.gg/emojis/6290-harold.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100% 100%; width: 100vw; opacity: 0.03; background: url('https://github.com/Ayfri/Ayfri/assets/34159136/2f98d616-4da5-49f5-90cf-044d313d63a0');]{x0000}$}
