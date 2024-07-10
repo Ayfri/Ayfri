@@ -1,7 +1,7 @@
 # Hi there, I'm Ayfri 👋
 ### What do I do ?
 I'm a french student, coding mainly in Kotlin, PHP, TypeScript, Java, JavaScript, Python, Go and briefly other languages.<br>
-I do mainly games, discord bots, minecraft mods, useful librairies and other, I also love experimenting with new technologies and new types of projects.<br>
+I do mainly games, discord bots, minecraft mods, useful libraries and other, I also love experimenting with new technologies and new types of projects.<br>
 > _Note : Part of my work is done on live on [twitch](https://www.twitch.tv/ayfri_)._<br>
 <br>
 I have a lot of projects that aren't finished (like everybody).
