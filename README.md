@@ -47,6 +47,7 @@ I have a lot of projects that aren't finished (like everybody).
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayfri&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/Ayfri?label=Followers)
+![](https://hit.yhype.me/github/profile?user_id=34159136)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfri&card_width=400&langs_count=10&hide_border=true&theme=nord" />
