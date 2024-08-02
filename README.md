@@ -2,21 +2,26 @@
 ### What do I do ?
 I'm a french student, coding mainly in Kotlin, PHP, TypeScript, Java, JavaScript, Python, Go and briefly other languages.<br>
 I do mainly games, discord bots, minecraft mods, useful libraries and other, I also love experimenting with new technologies and new types of projects.<br>
-> _Note : Part of my work is done on live on [twitch](https://www.twitch.tv/ayfri_)._<br>
 <br>
 I have a lot of projects that aren't finished (like everybody).
 
 ### Links
 
-- My Online Portfolio : [ayfri.com](https://ayfri.com)
-- Discord : Ayfri#0453
+- My Website : [ayfri.com](https://ayfri.com)
+- Discord : Ayfri
 - Discord Server : [CommunAyfri](https://discord.gg/BySjRNQ9Je)
 - Twitter : [Ayfri_](https://twitter.com/Ayfri_)
 - Twitch : [Ayfri_](https://www.twitch.tv/ayfri_)
 - Youtube : [Ayfri](https://www.youtube.com/c/Ayfri)
 
-#### Buy me a coffee :)<br>
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DAyfri%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/Ayfri)
+#### Online Projects
+
+- Kore : [kore.ayfri.com](https://kore.ayfri.com)
+- PokéStore : [pokestore.ayfri.com](https://pokestore.ayfri.com)
+
+#### Buy me a coffee :)
+
+[buymeacoffe.com/ayfri](https://buymeacoffee.com/ayfri) ☕
 
 ### Technologies I use
 
