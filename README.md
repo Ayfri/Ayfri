@@ -17,8 +17,11 @@ I have a lot of projects that aren't finished (like everybody).
 #### Online Projects
 
 - Kore : [kore.ayfri.com](https://kore.ayfri.com)
-- PokéStore : [pokestore.ayfri.com](https://pokestore.ayfri.com)
+- PokeCards-Collector : [pokecards-collector.ayfri.com](https://pokecards-collector.ayfri.com)
 - Atom Clicker : [atom-clicker.ayfri.com](https://atom-clicker.ayfri.com)
+- Realtime-Todolist : [realtime-todolist.pages.dev](https://realtime-todolist.pages.dev)
+- Cursors-Draw : [cursors-draw.ayfri.com/](https://cursors-draw.ayfri.com/)
+- A*Follow : [afollow.ayfri.com/](https://afollow.ayfri.com/)
 
 #### Buy me a coffee :)
 
