@@ -54,8 +54,7 @@ I have a lot of projects that aren't finished (like everybody).
 ![Copilot](https://img.shields.io/badge/Copilot-black?style=flat-square&logo=githubcopilot)
 
 ### Statistics on me
-
-[![profile for Ayfri at Stack Overflow, Q&A for professional and enthusiast programmers](https://stackoverflow.com/users/flair/12184583.png "profile for Ayfri at Stack Overflow, Q&A for professional and enthusiast programmers")](https://stackoverflow.com/users/12184583/ayfri)
+[![profile for Ayfri at Stack Overflow, Q&A for professional and enthusiast programmers](https://stackoverflow.com/users/flair/12184583.png?theme=dark "profile for Ayfri at Stack Overflow, Q&A for professional and enthusiast programmers")](https://stackoverflow.com/users/12184583/ayfri)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayfri&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/Ayfri?label=Followers)
